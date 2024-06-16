@@ -10,3 +10,7 @@
 - [동기 vs 비동기 프로그래밍](https://youtu.be/mok-QB0Pl1g)
 - [Callback(콜백) 함수란?](https://youtu.be/KcOOhv4xV_A)
 - [Promise란 무엇인가?!](https://youtu.be/iUGLyhbwYkU)
+
+
+[Promise, async/await 끝장내기 강의](https://www.youtube.com/playlist?list=PLlaP-jSd-nK9cv0bLXMmuDJ0-A3je6CrK)
+
